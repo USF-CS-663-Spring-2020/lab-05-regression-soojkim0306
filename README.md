@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Soo Jung Kim
+**USF email address**: skim104@dons.usfca.edu 
